@@ -6,7 +6,7 @@
 - You want to give users the ability to select which content to expand and review.
 
 ## When Not to Use
-- When you need users to read all the content on the page. 
+- When you need users to read all the content on the page. Putting critical content into accordions increases [interaction cost and user resentment](https://www.nngroup.com/articles/accordions-complex-content/). 
 - When the content isn't related and should be different pages to improve both usability and searchability. 
 
 ## Accessibility and Usability
