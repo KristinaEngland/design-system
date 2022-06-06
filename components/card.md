@@ -4,13 +4,12 @@ A card is generally a block element that contains common elements such as an ima
 
 ## When to Use
 
-Use cards to create a graphically pleasing teaser of content. 
+- Use cards to create a graphically pleasing teaser of content. 
 
 ## When not to use
 
-Do not use cards for a long list of content as a list is more easily scanned and will provide users of assistive technology the expectation of how many items are in the list they are about to browse through.
-
-Do not use cards when each item contains a number of variables that need to be easily scanned and could also provide a method for sorting or filtering the data set.
+- Do not use cards for a long list of content as a list is more easily scanned and will provide users of assistive technology the expectation of how many items are in the list they are about to browse through.
+- Do not use cards when each item contains a number of variables that need to be easily scanned and could also provide a method for sorting or filtering the data set.
 
 ## Accessibility and Usability
 
