@@ -6,7 +6,8 @@ Toggle switches allow users to switch between on and off settings. They are most
 - When the change will be immediate. 
 
 ## When Not to Use
-
+- When a process requires the user to press the submit button - either radio buttons or a checkbox should be used in this case.
+- 
 ## Accessibility and Usability
 - Toggle switches should take immediate effect and should not require the user to click Save or Submit to apply the new state.
 - The toggle labels should describe what the control will do when the switch is on; they should not be neutral or ambiguous. When in doubt, say the label aloud and append “on/off” to the end. If it doesn’t make sense, then rewrite the label.
