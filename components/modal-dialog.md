@@ -14,7 +14,7 @@ As documented by the Nielsen Norman Group, modal dialogs should be used in the f
 
 ## Accessibility and Usability
 - Modals should be used sparingly as they interrupt a person's workflow. 
-- The modal dialog should receive keyboard focus when activated and keyboard focus should remain in the modal until the person closes it.
+- The modal dialog should receive keyboard focus when activated so that keyboard and screen reader navigation begins at the top of the modal content.
 - A person should be able to close the modal by  hitting the Esc key and pressing a Close button (both options should be available).
 - The first interactive element should receive focus - do not force focus elsewhere in the dialog. 
 
