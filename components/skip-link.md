@@ -8,5 +8,8 @@ A link at the top of the page that visually appears on the first keyboard tab in
 - Not applicable. 
 
 ## Accessibility and Usability
+- You must have both a banner landmark and a main landmark.
+- Add the skip to main content link to the banner landmark with an anchor to the main landmark. 
+- Assign the main landmark an ID of "main" for the anchor to work.
 
 ## HTML and CSS
