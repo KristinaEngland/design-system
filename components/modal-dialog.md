@@ -8,6 +8,9 @@ As documented by the Nielsen Norman Group, modal dialogs should be used in the f
 - Use modal dialogs to ask for information that, when provided, could significantly lessen users’ work or effort.
 
 ## When not to use
+- Do not use modal dialogs for nonessential information that is not related to the current user flow.
+- Avoid modal dialogs that interrupt high-stake processes such as checkout flows.
+- Avoid modal dialogs for complex decision making that requires additional sources of information unavailable in the modal.
 
 ## Accessibility and Usability
 
