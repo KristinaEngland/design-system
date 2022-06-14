@@ -16,6 +16,6 @@ As documented by the Nielsen Norman Group, modal dialogs should be used in the f
 - Modals should be used sparingly as they interrupt a person's workflow. 
 - The modal dialog should receive keyboard focus when activated and keyboard focus should remain in the modal until the person closes it.
 - A person should be able to close the modal by  hitting the Esc key and pressing a Close button (both options should be available).
-- The first operable element should receive focus - do not force focus elsewhere in the dialog. 
+- The first interactive element should receive focus - do not force focus elsewhere in the dialog. 
 
 ## HTML and CSS
