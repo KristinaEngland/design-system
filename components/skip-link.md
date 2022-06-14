@@ -11,5 +11,6 @@ A link at the top of the page that visually appears on the first keyboard tab in
 - The skip to main link should always be reachable on the first tab into the page and should visibily appear for sighted users.
 - You must have both a banner landmark and a main landmark.
 - Add the skip to main content link to the banner landmark with an anchor to the main landmark. You must assign the main landmark an ID of "main" for the anchor to work.
+- Use CSS to hide the skip link until it receives keyboard focus (using absolute positioning and overflow:hideen) and use CSS to show it when it receives keyboard focus by assigning a static position.
 
 ## HTML and CSS
