@@ -13,5 +13,8 @@ As documented by the Nielsen Norman Group, modal dialogs should be used in the f
 - Avoid modal dialogs for complex decision making that requires additional sources of information unavailable in the modal.
 
 ## Accessibility and Usability
+- Modals should be used sparingly as they interrupt a person's workflow. 
+- The modal dialog should receive keyboard focus when activated and keyboard focus should remain in the modal until the person closes it.
+- A person should be able to close the modal by  hitting the Esc key and pressing a Close button (both options should be available).
 
 ## HTML and CSS
