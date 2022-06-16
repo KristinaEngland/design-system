@@ -9,6 +9,7 @@ A notification gives people timely, high-value information they can understand a
 - 
 
 ### When not to use
+- Do not use for error messages. Use an alert component instead. 
 
 ### Accessibility and Usability
 
