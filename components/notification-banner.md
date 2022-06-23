@@ -12,6 +12,8 @@ A notification gives people timely, high-value information they can understand a
 - They are not triggered by users’ immediate actions. Do not use for error messages. Use an alert component instead. 
 
 ## Accessibility and Usability
+- Create a short title if it provides context for the notification content. 
+- Provide an icon to inform users of the kind of notification at a glance (e.g., i for information, ! for an important announcement, etc.).
 - Provide concise, informative notifications. 
 - 
 
