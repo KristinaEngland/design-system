@@ -12,10 +12,11 @@ A notification gives people timely, high-value information they can understand a
 - They are not triggered by users’ immediate actions. Do not use for error messages. Use an alert component instead. 
 
 ## Accessibility and Usability
-- Create a short title if it provides context for the notification content. 
+- Notifications should be inline. If you are exploring a pop-up feature, you would want to look at implementing a toast component.
+- Provide a heading for the type of notification (e.g., Important Announcement, Upcoming Deadline, Software Update). This provides screen reader users with an easy way to find the notification. 
+- As a notification is inline and has a heading, it should not have an aria-live region.
 - Provide an icon to inform users of the kind of notification at a glance (e.g., i for information, ! for an important announcement, etc.).
 - Provide concise, informative notifications. 
-- 
 
 ## HTML and CSS
 
