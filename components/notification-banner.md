@@ -7,12 +7,14 @@ A notification gives people timely, high-value information they can understand a
 - To announce an event that has some significance to the user.
   - Use action-required notifications when an announcement is urgent and should be intrusive, such as a system downtime alert or when an immediate software update is required due to a security vulnerability. 
   - Use passive notifications for information that is not urgent and thus should be less intrusive. This might be a reminder to run a software update or of an upcoming deadline. Note that passive notifications are easily missed so using multiple ways to convey that content such as through a customer email are recommended. 
+   - Do not require immediate action and can be dismissed on a timer or persist, depending on the content
 
 ## When not to use
 - They are not triggered by users’ immediate actions. Do not use for error messages. Use an alert component instead. 
 
 ## Accessibility and Usability
 - Provide concise, informative notifications. 
+- 
 
 ## HTML and CSS
 
