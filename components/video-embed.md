@@ -8,7 +8,9 @@ The video embed component allows someone to embed a video from either Brightcove
 - Not applicable. 
 
 ## Accessibility and Usability
+- The embedded video should work with both voice input (speech recognition) and screen reader software.
 - The transcript field should be required and allow for either a text file or html file upload. 
+- The video should never auto-play due to the fact that an auto-playing video will interfer with both speech recognition and screen reader software. 
 
 ## Responsive Embed
 
