@@ -6,4 +6,5 @@
 - [Card](https://kristinaengland.github.io/design-system/components/card)
 - [Date Picker](https://kristinaengland.github.io/design-system/components/datepicker)
 - [Link](https://kristinaengland.github.io/design-system/components/link)
+- [Modal Dialog](https://kristinaengland.github.io/design-system/components/modal-dialog)
 - [Video Embed](https://kristinaengland.github.io/design-system/components/video-embed)
