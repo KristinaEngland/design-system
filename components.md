@@ -9,4 +9,5 @@
 - [Modal Dialog](https://kristinaengland.github.io/design-system/components/modal-dialog)
 - [Notification Banner](https://kristinaengland.github.io/design-system/components/notification-banner)
 - [Skip Link](https://kristinaengland.github.io/design-system/components/skip-link)
+- [Toggle](https://kristinaengland.github.io/design-system/components/toggle)
 - [Video Embed](https://kristinaengland.github.io/design-system/components/video-embed)
