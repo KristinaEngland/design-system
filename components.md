@@ -1,5 +1,6 @@
 # Components
 
+- [Accordion](https://kristinaengland.github.io/design-system/components/accordion)
 - [Breadcrumb Navigation](https://kristinaengland.github.io/design-system/components/breadcrumb)
 - [Button](https://kristinaengland.github.io/design-system/components/button)
 - [Card](https://kristinaengland.github.io/design-system/components/card)
