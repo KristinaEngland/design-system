@@ -1,4 +1,4 @@
-# Styles
+# Design
 
 - [Color Palette](/design-system/styles/color-palette)
 - Motion
