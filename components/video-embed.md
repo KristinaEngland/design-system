@@ -8,6 +8,7 @@ The video embed component allows someone to embed a video from either Brightcove
 - Not applicable. 
 
 ## Accessibility and Usability
+- The transcript field should be required and allow for either a text file or html file upload. 
 
 ## Responsive Embed
 
