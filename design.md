@@ -1,6 +1,6 @@
 # Design
 
-- [Color Palette](/design-system/styles/color-palette)
+- [Color Palette](/design-system/design/color-palette)
 - Motion
 - Spacing
 - [Typography](/design-system/styles/typography)
