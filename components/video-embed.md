@@ -1,4 +1,4 @@
-# Video
+# Video Embed
 The video component allows someone to embed a video from either Brightcove or YouTube on to a page. The component requires a transcript be uploaded with the video to ensure accessible communications. There is no way to require captions on the component side - this must be handled through the Brightcove or YouTube interface. 
 
 ## When to Use
