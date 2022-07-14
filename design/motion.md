@@ -8,3 +8,4 @@ Motion can be a great way to guide people through a process. However, it should 
   - How does it enhance the user's understanding?
 - All motion should adhere to Success Criterion 2.3.1: Three Flashes or Below Threshold of the Web Content Accessibility Guidelines.
 - People should always be given the option to opt out of motion. Motion can trigger seizures, vertigo, migranes, etc. and the triggers can be highly individualized so designers should always design both a motion experience and non-motion experience and ensure a developer implements the non-motion experience through CSS prefers-reduced-motion. 
+- Motion should not be the only way to convey meaning. If someone has motion shut off or they are blind or deafblind, they need that meaning conveyed in another way. 
