@@ -8,9 +8,11 @@
 - Resize images so they can load faster but always test images for the appropriate resolution on different ratios and displays.
 - Establish a clear focal point when cropping an image if being used with text and use the correct aspect ratio for each component.
 - Select images that are able to adapt across the different aspect ratios on responsive applications.
+- 
 
 ### Don't
 - Use images that lose their meaning or context when cropped at diffrent ascpect ratios. For optimal user experience, test how images crop for the breakpoints in your application.
+- Use images that are pixelated on certain devices or upon resizing with browser zoom.
 - Avoid images that contain text, especially PNGs and JPGs because the text becomes unreadable when the user zooms in. If the image does contain text, use SVG because it remains readable when the user zooms in. The alt text should be the same as the text displayed in the image.
 
 ## Dimensions
