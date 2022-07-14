@@ -8,7 +8,6 @@
 - Resize images so they can load faster but always test images for the appropriate resolution on different ratios and displays.
 - Establish a clear focal point when cropping an image if being used with text and use the correct aspect ratio for each component.
 - Select images that are able to adapt across the different aspect ratios on responsive applications.
-- 
 
 ### Don't
 - Use images that lose their meaning or context when cropped at diffrent ascpect ratios. For optimal user experience, test how images crop for the breakpoints in your application.
