@@ -8,11 +8,8 @@ The website header is the section of content at the top of a web page. Headers w
 
 ## Accessibility and Usability
 
-- Focus Indicator is the same for a mouse hover or keyboard focus.
-- Text in the header is read by screen readers and can be selected with a mouse.
-- Text in the header should be short and easily scannable.
-- Have clear and consistent navigation options.
-
+- Always include a Skip to main content link. See the Skip to main content link component for how to implement that function. 
+- Include the proper landmarks (banner, search, navigation).
 
 
 ## HTML and CSS
