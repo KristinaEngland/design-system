@@ -9,7 +9,7 @@ The website header is the section of content at the top of a web page. Headers w
 ## Accessibility and Usability
 
 - Always include a Skip to main content link. See the Skip to main content link component for how to implement that function. 
-- Include the proper landmarks (banner, search, navigation).
+- Include proper landmarks (banner, search, navigation). When providing multiple types of navigation in your header, such as Main and Utility navigation, provide clear labels for each navigation landmark.
 - The header logo should include the name of the site for its alt text (for example, UMass Office of the President).
 
 
