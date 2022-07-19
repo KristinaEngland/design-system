@@ -10,6 +10,7 @@ The website header is the section of content at the top of a web page. Headers w
 
 - Always include a Skip to main content link. See the Skip to main content link component for how to implement that function. 
 - Include the proper landmarks (banner, search, navigation).
+- The header logo should include the name of the site for its alt text (for example, UMass Office of the President).
 
 
 ## HTML and CSS
