@@ -1,6 +1,6 @@
 #  Header Component
 
-The website header is the section of content at the top of a web page. Headers will typically include a logo, some text, navigation elements, and a search bar.
+The global header provides users with a consistent brand and navigatoin for the site. Typical content included in the header is a skip to main content link, a logo, main navigation, and a search function. 
 
 ## When to Use
 
