@@ -19,7 +19,7 @@ All headings should use the [Montserrat font](https://fonts.google.com/specimen/
 
 ### Body
 - All body content should use the [Open Sans font](https://fonts.google.com/specimen/Open+Sans).
-- The default paragraph font size is -- Tracy to add --
+- The default paragraph font size is * Tracy to add font size information *
 
 ### Lead paragraph
 All pages have one optional lead paragraph available to use as your introductory paragraph. 
