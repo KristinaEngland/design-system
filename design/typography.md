@@ -15,9 +15,16 @@ All headings should use the [Montserrat font](https://fonts.google.com/specimen/
 - Heading 3: 35px/2.1875rem, 500 weight, #1D1E1F 
 - Heading 4: 24px/1.5rem, 500 weight, #1D1E1F
 
-## Body Content 
-### Typeface
-All body content should use the [Open Sans font](https://fonts.google.com/specimen/Open+Sans).
+## Paragraphs
+
+### Body
+- All body content should use the [Open Sans font](https://fonts.google.com/specimen/Open+Sans).
+- The default paragraph font size is -- Tracy to add --
+
+### Lead paragraph
+All pages have one optional lead paragraph available to use as your introductory paragraph. 
+- If used, this lead paragraph should summarize the content on the page. 
+- The lead paragraph uses * Tracy to add font size information *
 
 ### Style Guidelines
 - All bulleted content should use built-in ordered and unordered bullet styles.
