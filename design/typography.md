@@ -1,6 +1,10 @@
 # Typography
 
 ## Headings
+### Accessibility and Usability
+- All headings should be written in sentence case.
+- Always use built in heading styles and ensure they are nested correctly (i.e. if you are using a Heading 3, there must be a corresponding Heading 2 - if there isn't, that heading should be a Heading 2)..
+
 ### Typeface
 All headings should use the [Montserrat font](https://fonts.google.com/specimen/Montserrat).
 
