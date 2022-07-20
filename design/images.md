@@ -17,7 +17,7 @@
 
 ## Dimensions
 
-Add dimension information
+* Tracy - add dimensions info * 
 
 ## Alternative Text
 
