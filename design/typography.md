@@ -38,3 +38,7 @@ When using bulleted lists:
 
 ### Numbered Lists
 Use numbered lists when you need to convey a priority, hierarchy, or sequence between list items.
+
+When using numbered lists:
+- You do not need to use a lead-in line for numbered lists. 
+- Ensure items in a numbered list in a full stop because each should be a complete sentence.
