@@ -26,3 +26,11 @@ All pages have one optional lead paragraph available to use as your introductory
 - If used, this lead paragraph should summarize the content on the page. 
 - The lead paragraph uses * Tracy to add font size information *
 
+## Lists
+Lists consist of related content grouped together and organized vertically.
+
+### Bulleted Lists
+Use bulleted lists when you don’t need to convey a specific order for list items.
+
+### Numbered Lists
+Use numbered lists when you need to convey a priority, hierarchy, or sequence between list items.
