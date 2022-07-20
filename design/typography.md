@@ -26,8 +26,3 @@ All pages have one optional lead paragraph available to use as your introductory
 - If used, this lead paragraph should summarize the content on the page. 
 - The lead paragraph uses * Tracy to add font size information *
 
-### Style Guidelines
-- All bulleted content should use built-in ordered and unordered bullet styles.
-- Use bold to emphasize content.
-- Do not change built-in font colors if you have access to do so - we can not look down all systems. 
-- Text alignment should remain at the default of aligned-left, which is the most readable alignment. 
