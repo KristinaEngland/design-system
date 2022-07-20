@@ -23,6 +23,6 @@
 
 Alternative text should describe any important visual elements a blind, deafblind, or neurodivergent person would miss by not seeing the image.
 
-## Alt text should:
+### Alt text should:
 - Be short and concise, but convey the intent of the image.
 - Include race, ethnicity or skin tone when people are included. Avoid assuming someone's race or ethnicity. If you are unable
