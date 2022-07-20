@@ -32,5 +32,9 @@ Lists consist of related content grouped together and organized vertically.
 ### Bulleted Lists
 Use bulleted lists when you don’t need to convey a specific order for list items.
 
+When using bulleted lists:
+- Introduce bulleted lists with a lead-in line ending in a colon
+- Start each item with a lowercase letter, and do not use a full stop at the end
+
 ### Numbered Lists
 Use numbered lists when you need to convey a priority, hierarchy, or sequence between list items.
