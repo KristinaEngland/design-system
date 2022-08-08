@@ -9,4 +9,4 @@
 - When the user needs to select multiple values. In this case, you would use the checkbox component. 
 
 ## Accessibility and Usability
-- 
+- As noted above in the When Not to Use section, avoid using radio buttons for optional fields as the selection of a radio button can't be undone. However, if you do choose to use a radio button for an optional field, provide a "none of the above" option so the user can switch their answer to none of the above in a case where they accidentally selected a value. 
