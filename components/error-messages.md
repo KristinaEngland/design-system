@@ -1,6 +1,7 @@
 # Error Messages
 
 ## When to Use
+- Error messages should be used for form validation.
 
 ## When Not to Use
 
