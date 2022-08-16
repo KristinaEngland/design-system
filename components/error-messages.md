@@ -3,8 +3,10 @@ Error messages appear after someone has taken an action and alert the person of 
 
 ## When to Use
 - Error messages should be used for form validation.
+- For service status messages such as errors and warnings. 
 
 ## When Not to Use
+- To confirm the deletion or cancelation of data - instead, use a modal dialogue message to confirm the user action.
 
 ## Accessibility and Usability
 - Ensure there is an explicit indication that something has gone wrong. 
