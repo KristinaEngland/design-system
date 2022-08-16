@@ -1,4 +1,5 @@
 # Error Messages
+Error messages appear after someone has taken an action and alert the person of an error that has occured in their action. For example, if someone tries to submit a form without filling out a required field, an error message would alert them of the fact they forgot to complete a field and what field they forgot to complete. 
 
 ## When to Use
 - Error messages should be used for form validation.
