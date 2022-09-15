@@ -6,6 +6,10 @@ The global header provides users with a consistent brand and navigatoin for the 
 
  There should be a header at the top of every page on a website.
 
+## Branding Requirements
+- The header should use the University's Vibrant Blue (Hex #035CB8) unless a product or service does not allow for this branding.
+- The header should always use the white knockout logo included in the [Brand Guide](https://www.umassp.edu/communications/brand-guidelines/look-and-feel) unless the header color can't be changed to the University's Vibrant Blue and instead the header has a light background. In this case, you should use the color logo.
+
 ## Accessibility and Usability
 
 - Always include a Skip to main content link. See the Skip to main content link component for how to implement that function. 
