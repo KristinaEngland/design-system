@@ -12,3 +12,4 @@ Checkboxes are used when you want a user to be able to select one or more option
 ## Accessibility and Usability
 - Each checkbox should be reachable by tabbing and should be able to be selected with the space key and with speech recognition commands. 
 - Group checkboxes together in a <fieldset> with a <legend> that describes them. Ensure the accessible name meets the WCAG's Success Criterion 2.5.3: Label in Name.
+- If your checkboxes are displayed across multiple columns, ensure they retain a meaningful order for keyboard only and screen reader users.
