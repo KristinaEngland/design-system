@@ -13,3 +13,4 @@ Checkboxes are used when you want a user to be able to select one or more option
 - Each checkbox should be reachable by tabbing and should be able to be selected with the space key and with speech recognition commands. 
 - Group checkboxes together in a <fieldset> with a <legend> that describes them. Ensure the accessible name meets the WCAG's Success Criterion 2.5.3: Label in Name.
 - If your checkboxes are displayed across multiple columns, ensure they retain a meaningful order for keyboard only and screen reader users.
+- Give users the option to select a "none of the listed values" answer. This ensures they don't skip the question by accident and that it's clear to all users that they don't need to select an answer. 
