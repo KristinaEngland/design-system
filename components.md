@@ -4,6 +4,7 @@
 - [Breadcrumb Navigation](https://kristinaengland.github.io/design-system/components/breadcrumb)
 - [Button](https://kristinaengland.github.io/design-system/components/button)
 - [Card](https://kristinaengland.github.io/design-system/components/card)
+- [Checkboxes](https://kristinaengland.github.io/design-system/components/checkboxes)
 - [Date Picker](https://kristinaengland.github.io/design-system/components/datepicker)
 - [Link](https://kristinaengland.github.io/design-system/components/link)
 - [Modal Dialog](https://kristinaengland.github.io/design-system/components/modal-dialog)
