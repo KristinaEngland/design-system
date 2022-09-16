@@ -22,6 +22,8 @@ Add codepen.
 
 ### Footer with Links
 
+There are two standard links that should be added to all main websites - (1) Terms of Use/Privacy Policy and (2) Accessibility. 
+
 <iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/mrufli/embed/KKyRJQL?default-tab=html" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/mrufli/pen/KKyRJQL">
   Untitled</a> by Matthew Rufli (<a href="https://codepen.io/mrufli">@mrufli</a>)
