@@ -6,6 +6,11 @@ The website footer is the section of content at the very bottom of a web page. I
 
 - Every page on a website should contain the footer at the bottom of it.
 
+## Brand Requirements
+- The footer should always include the University logo. Which university logo is used (white knockout or color) will depend on the footer branding (light or dark as shown below). 
+- There are two standard links that should appear in the footer of all President's Office websites - (1) Terms of Use/Privacy Policy and (2) Accessibility.
+- The footer should contain a copyright.  
+
 ## Accessibility and Usability
 
 - Focus Indicator is the same for a mouse hover or keyboard focus.
@@ -15,14 +20,15 @@ The website footer is the section of content at the very bottom of a web page. I
 
 ## HTML and CSS
 
-### Basic Footer without Links
-This footer can be used on marketing campaign sites and other simple sites that do not require a robust footer.
+### Basic Footer 
+This footer can be used on marketing campaign sites and other simple sites that do not require a robust footer. It contains only the logo, the two standard footer links, and the copyright. 
 
 Add codepen.
 
-### Footer with Links
+### Basic Footer - Light Variant
+This footer should be used sparingly, when you cannot implement the standard basic footer.
 
-There are two standard links that should be added to all main websites - (1) Terms of Use/Privacy Policy and (2) Accessibility. 
+### Footer with Links
 
 <iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/mrufli/embed/KKyRJQL?default-tab=html" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/mrufli/pen/KKyRJQL">
