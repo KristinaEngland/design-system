@@ -6,6 +6,7 @@
 - [Card](https://kristinaengland.github.io/design-system/components/card)
 - [Checkboxes](https://kristinaengland.github.io/design-system/components/checkboxes)
 - [Date Picker](https://kristinaengland.github.io/design-system/components/datepicker)
+- [Footer](https://kristinaengland.github.io/design-system/components/footer)
 - [Header](https://kristinaengland.github.io/design-system/components/header)
 - [Link](https://kristinaengland.github.io/design-system/components/link)
 - [Modal Dialog](https://kristinaengland.github.io/design-system/components/modal-dialog)
