@@ -35,3 +35,7 @@ This footer should be used sparingly, when you cannot implement the standard bas
   Untitled</a> by Matthew Rufli (<a href="https://codepen.io/mrufli">@mrufli</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
+
+### Footer with Links and Social Media Icons
+
+Add codepen.
