@@ -13,9 +13,10 @@ The website footer is the section of content at the very bottom of a web page. I
 
 ## Accessibility and Usability
 
-- Focus Indicator is the same for a mouse hover or keyboard focus.
-- Text in the footer is read by screen readers and can be selected with a mouse.
+- Ensrue focus indicators meet color contrast guidelines in the footer - often if only one set of focus indicators are designed for a site, they are tested up against the body content, which has a light background, but not up against the header and footer content (which is often put against a dark background). 
 - Text in the footer should be short and easily scannable.
+- Footer links should point to content that might answer a visitor’s remaining questions.
+- Ensure social media icons have labels behind the scenes that are easy and intuitive for both speech recognition and screen reader users.
 
 
 ## HTML and CSS
