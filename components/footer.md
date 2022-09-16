@@ -4,7 +4,7 @@ The website footer is the section of content at the very bottom of a web page. I
 
 ## When to Use
 
- Every page on a website should contain a footer at the bottom of it.
+ Every page on a website should contain the footer at the bottom of it.
 
 ## Accessibility and Usability
 
