@@ -4,7 +4,7 @@ The website footer is the section of content at the very bottom of a web page. I
 
 ## When to Use
 
- Every page on a website should contain the footer at the bottom of it.
+- Every page on a website should contain the footer at the bottom of it.
 
 ## Accessibility and Usability
 
@@ -15,7 +15,12 @@ The website footer is the section of content at the very bottom of a web page. I
 
 ## HTML and CSS
 
-### Footer Component; Accessible
+### Basic Footer without Links
+This footer can be used on marketing campaign sites and other simple sites that do not require a robust footer.
+
+Add codepen.
+
+### Footer with Links
 
 <iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/mrufli/embed/KKyRJQL?default-tab=html" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/mrufli/pen/KKyRJQL">
