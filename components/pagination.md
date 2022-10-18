@@ -7,7 +7,7 @@ Pagination provides users with the ability to navigate through large amounts of 
 - when users will not need to navigate the full amount of data.
 
 ## When Not to Use
-- 
+- If pagination will not improve usability and page load performance. 
 
 ## Accessibility & Usability
 - Clearly identify which page the user is on by displaying the current page number. 
