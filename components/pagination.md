@@ -12,3 +12,4 @@ Pagination provides users with the ability to navigate through large amounts of 
 ## Accessibility & Usability
 - Clearly identify which page the user is on by displaying the current page number. 
 - Do not use the load more infinite scroll technique instead of pagination. This causes problems for keyboard and assistive technnology users.
+- Add the pagination at the bottom of the results as this makes it easier for keyboard and assistive technology users to navigate to the next page if needed.
