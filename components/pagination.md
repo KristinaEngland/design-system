@@ -13,3 +13,5 @@ Pagination provides users with the ability to navigate through large amounts of 
 - Clearly identify which page the user is on by displaying the current page number. 
 - Do not use the load more infinite scroll technique instead of pagination. This causes problems for keyboard and assistive technnology users.
 - Add the pagination at the bottom of the results as this makes it easier for keyboard and assistive technology users to navigate to the next page if needed.
+- Limit the page to 25 results by default but give people the optiont to change the result limits up to 100 results. 
+- Provide multiple ways to navigate the pagination - page numbers, previous and next buttons, as well as the ability to enter the page number. 
