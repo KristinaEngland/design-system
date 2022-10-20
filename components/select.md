@@ -4,8 +4,10 @@ The Select component is used on forms to select one item from a list.
 
 ## When to Use
 - Use the select component inside a form where users are selecting from a list of options and submitting data.
-- 
+- If there are a significant amount of items to select from, consider implementing a search for the Select list.
+
 # When Not to Use
+- The Select component should only be used for long lists (radio buttons should be used short lists of values).
 
 # Accessibility and Usability
 - The visible label for the Select component should match the behind the scenes label to ensure the label works with all types of assistive technology. See WCAG Label in Name for more details.
