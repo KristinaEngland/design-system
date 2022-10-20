@@ -15,3 +15,5 @@ The Select component is used on forms to select one item from a list.
 - Provide real time validation and ensure any errors are coded to be read by assistive technology.
 - Ensure the select component is both usable with a mouse and keyboard. 
 - If the Selec component has an autocomplete look up, ensure the search results are being read to screen reader users and that the results are reachable by keyboard and mouse.
+- If you use the  component for questions, you should not pre-select any of the options in case it influences users’ answers.
+
