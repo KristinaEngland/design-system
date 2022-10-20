@@ -11,8 +11,8 @@ Breadcrumbs are a particular type of navigation that helps a visitor understand 
 ## Accessibility & Usability
 
 - Always place breadcrumbs at the top of a page, before the Main landmark. Placing them here ensures that when someone uses the Skip to main content link, they will skip over all navigation links, including breadcrumbs.
-- The breadcrumb should start with your ‘home’ page and end with the parent section of the current page.
 - Use an ordered list versus an unordered list - this indicates hierarchy versus just being a list of items.
+- The breadcrumb should start with your ‘home’ page and end with the current page.
 - All the pages in the breadcrumb component should be interactive (except the current page) and link to their respective pages.
 - Use a nav element with the role attribute equal to "navigation."
 - use a aria-label element to indicate the type of navigation element, set to "breadcrumb"
