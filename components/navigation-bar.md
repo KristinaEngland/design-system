@@ -11,3 +11,4 @@ Create a vertical list of navigation links for use in a sidebar
 ## Accessibility and Usability
 
 - Navigation components should have clearly defined Navigation landmarks behind the scenes. The Sub navigation should thus have a clear landmark name to delinate it from the main navigation of the site, such as "Section Pages" or "In this Section." 
+- Use the “active” state to show users which page they are currently on in the side nav. 
