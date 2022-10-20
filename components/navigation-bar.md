@@ -10,5 +10,4 @@ Create a vertical list of navigation links for use in a sidebar
 
 ## Accessibility and Usability
 
-- Navigation components should have clearly defined Navigation landmarks behind the scenes. When there is only one navigation component, you can leave the navigation landmark default name of navigation. When there are multiple navigation components, you should make clear what each one does, such as Main Navigation and Utility Navigation.
-- 
+- Navigation components should have clearly defined Navigation landmarks behind the scenes. The Sub navigation should thus have a clear landmark name to delinate it from the main navigation of the site, such as "Section Pages" or "In this Section." 
