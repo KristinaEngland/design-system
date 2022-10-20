@@ -3,10 +3,10 @@ Breadcrumbs are a particular type of navigation that helps a visitor understand 
 
 
 ## When to use
-Breadcrumbs are most useful when a site has an extensive navigational structure.
+- Use the breadcrumbs component when you need to help users understand and move between the multiple levels of a website.
 
 ## When not to use
-If you site is only one or two levels deep, it is not really valuable to add a breadcrumb navigation.
+- Breadcrumbs shouldn’t be used for flat sites (single level navigation) because they create unnecessary clutter.
 
 ## Accessibility & Usability
 
