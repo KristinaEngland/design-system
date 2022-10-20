@@ -1,10 +1,12 @@
-# Navigation
+# Side Navigation
 
-Navigation components offer a persistent and convenient way to switch between primary destinations on a website or product. They provide top-level destinations that need to be easily reachable and can also provide sub-menu items. You may have only one navigation bar or you may have multiple, such as the common three navigation elements set up for complex sites - main navigation, side navigaion, and utility navigation. 
+Create a vertical list of navigation links for use in a sidebar 
 
 ## When to Use
+- When sub-content on a site requires it's own menu. For example, a department site with several main page and sub-pages that would not fit into the main navigation of the site. 
 
 ## When Not to Use
+- For sub-content that does not have multiple pages of content.
 
 ## Accessibility and Usability
 
